@@ -1,4 +1,4 @@
- 
+
 print("Введите числ от 0 до 1000:")
 
 def IsPrime(n):
@@ -23,4 +23,5 @@ if IsPrime(n):
     print("True")
 else:
     print("False")
+
 
