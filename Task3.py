@@ -1,5 +1,5 @@
 
-user_input = input("Поле для ввода текста с круглыми скобками: ")
+user_input = input("Моя радость, напиши текст с круглыми скобками: ")
 
 def minus_skobki(text):
     while '(' in text and ')' in text:
